@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin:0;
+    padding:0;
+    background: url(../img/nubesfondo.png);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.cajatrans{
+    width: 700px;
+    height: 1250px;
+    background-color: white;
+    color: black;
+    position:relative;
+    left:30%; 
+    background: rgba(255, 255, 255, 0.40);
+    
+}
+
+h1{
+    color:black;
+    font-size: medium;
+    padding: 10px;
+}
+
+.contenedor{
+    margin-top: 10px;
+    float:left; 
+    padding:20px;
+    color:black;
+    letter-spacing: 1px;
+}
+    .contenedor img{
+        border-radius: 50%;
+    }
+
+.fotodino{
+    float: left;
+    position: relative;
+}
+.infodino{
+    float: left;
+    font-size: small;
+    position:absolute;
+    left:250px;
+padding:30px;
+}
+
+.contenedordos{
+    margin-top: 10px;
+    float: left;
+    padding:20px;
+    color: black;
+    letter-spacing: 1px;
+}
+    .contenedordos img{
+        border-radius: 50%;
+    }
+
+.fotochancho{
+    position:relative;
+    top:280px;
+    right:290px;
+}
+
+.infochancho{
+    float:left;
+    font-size: small;
+    padding:30px; 
+    position:absolute; 
+    left:250px;
+}
+
+.contenedortres{
+    margin-top: 10px;
+    float: left;
+    padding:20px;
+    color: black;
+    letter-spacing: 1px;
+}
+    .contenedortres img{
+        border-radius: 50%;
+    }
+
+.fotowoody{
+    position:relative;
+    top:280px;
+    right:2px;
+}
+
+.infowoody{
+    float:left;
+    font-size: small;
+    padding:30px; 
+    position:absolute; 
+    left:250px;
+}
+
+.pie img{
+position: absolute;
+top:1230px;
+right:358px;
+}
+
+
+
